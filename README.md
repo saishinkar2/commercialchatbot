@@ -1,4 +1,4 @@
 # commercialchatbot
-This is commercial chatbot 
+This is a commercial chatbot 
 
-This is for School Project Called "Scipotech"
+This is for School Science Event Called "Scipotech"
